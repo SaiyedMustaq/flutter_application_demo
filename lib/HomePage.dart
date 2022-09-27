@@ -21,7 +21,7 @@ class HomePage extends StatelessWidget {
       key: _scaffoldKey,
       appBar: AppBar(
         title: const Text(
-          'JANE DOE',
+          'Saiyed Mustaq Ahemad',
           style: TextStyle(
             fontSize: 22,
             color: Color(0xFF4756DF),

@@ -7,14 +7,12 @@ class Footer extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        const Text('© Copyright 2021'),
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Text('Built with ❤ by'),
             TextButton(
               onPressed: () {},
-              child: const Text('Pradeep Tintali'),
+              child: const Text('Saiyed Mustaq'),
             ),
           ],
         )
